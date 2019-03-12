@@ -1,0 +1,24 @@
+
+@media (max-width:995px){.flexslider, form{margin-top:15px;}
+}
+@media (max-width:555px){.navbar-brand{margin-top:0}
+.navbar-default{padding-bottom:0}
+.flexslider, .enquiry{float:none;width:94%}
+.bottom-links ul{padding:0;float:none;width:100%}
+.testimonial{width:100%;float:none;clear:both;text-align:center}
+.copyright{text-align:center}
+.copyright a.pull-right{float:none !important;text-align:center}
+.company-links{float:none;width:80%;text-align:center}
+.company-links ul{width:100%}
+}
+@media (max-width:768px){.navbar-nav{margin:0px;float:left}
+.nav.navbar-nav{width:100%;}
+.call-us{display:none}
+.call-us2{display:block}
+.navbar-toggle{margin-top:30px;}
+.MarginT150{margin-top:150px !important}
+}
+@media (max-width:768px){.navbar-brand{width:50%;}
+.call-us2 a{font-size:12px;}
+.call-us2{width:100%;text-align:center}
+}
